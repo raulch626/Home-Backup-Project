@@ -12,7 +12,7 @@ These are the various tools that I am using to automate and schedule a regular b
 -3 TB Free Store hard disk (same as the Easy Store)
 
 
-#Batch files have been created in order to automate the backup from the Google Drive accounts to the SSD hard drive.
+### Batch files have been created in order to automate the backup from the Google Drive accounts to the SSD hard drive.
   - a_allbackup auto backs up new files from the Google Drive accounts, to the SSD hard drive.
   - allbackup also backups up new file from the Google Drive account, to the SSD hard drive, but this time it pauses on each account before it proceeds to the next backup.
 
