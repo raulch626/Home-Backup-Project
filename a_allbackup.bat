@@ -27,4 +27,5 @@ echo "Currently Backing Up gitik2archives"
 robocopy "J:\My Drive" "F:\BACKUPS\Gmail Accounts\gitik2archives" /E /XO /DCOPY:DAT /COPYALL /R:3 /W:10 /TEE /MT:16
 
 echo Backup process completed.
+echo Thank you!
 
