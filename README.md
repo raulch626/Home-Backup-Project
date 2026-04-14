@@ -1,5 +1,7 @@
 ## Home-Backup-Project
 These are the various tools that I am using to automate and schedule a regular backup of my home files.
+- Robocopy (software)
+- Hardward: 1 SSD,. 4 portable standard portable hard disks
 
 #These is a list of the portable hard disks that I am using, along with their respective use cases:
 
