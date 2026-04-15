@@ -1,5 +1,7 @@
 ## Home-Backup-Project
 These are the various tools that I am using to automate and schedule a regular backup of my home files.
+- Software:Robocopy 
+- Hardware: 1 SSD, 4 portable hard disks
 
 #These is a list of the portable hard disks that I am using, along with their respective use cases:
 
@@ -19,15 +21,10 @@ Backups must be made so I can easily restore files. Portable hard drives are als
 
 ### Understanding
 
-All my personal files are now digitized so it means they are all computer files. With files in the computer, there is a need to regularly back them up to the cloud, then to a portable hard drive (for added redundancy).
+All my personal files are now digitized so it means they have become converted to computer files. With computer files , there is now a need to regularly back them up, not only to the cloud, but more importantly to a portable hard drive, that I can just bring to offline sites for safe keeping.
 
 
 ### Implementation
-
-
-  How the two batch files are different from each other.
-  - a_allbackup auto backs up new files from the Google Drive accounts, to the SSD hard drive.
-  - allbackup also backups up new file from the Google Drive account, to the SSD hard drive, but this time it pauses on each account before it proceeds to the next backup.
 
 All my files are uploaded in the cloud, specifically in Google Drive. And most of my files are in my Gitik2Share account. 
 To make it easily accessible for me, I am currently using Google Drive Desktop in my laptop so it easy for me to save files. And I can also access all the files (and folders) in Windows Explorer.
