@@ -1,3 +1,9 @@
+
+### Background
+
+My personal files changes regularly due to constant update so there is now a need to backup those files and folder just in case they become unusable (or corrupted) in Google Drive.
+Backups must be made so I can easily restore files. Portable hard drives are also used because I can also place them offsite – for protection against fire and other calamities in our home.
+
 ## Home-Backup-Project
 These are the various tools that I am using to automate and schedule a regular backup of my home files.
 - Software:Robocopy 
